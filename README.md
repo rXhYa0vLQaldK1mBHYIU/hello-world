@@ -9,3 +9,5 @@ This is my first repository. I am new user in github and would like to understan
 I am following the 10-minute guide instructions.
 
 I am making this change from my local copy of the file.
+
+Added this line to the parallel branch.
